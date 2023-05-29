@@ -1,0 +1,221 @@
+.top{
+  background-color: #212a3e;
+  color: #212a3e;
+
+}
+.logo-image{
+   width: 150px;
+   height: 150px;
+   border-radius: 50%;
+   overflow: hidden;
+   margin-top: -6px;
+}
+.box{
+  text-align: center;
+  padding-right: 10%;
+  padding-left: 50%;
+  background-image: url("../images/longsit.bmp");
+  background-size: cover;
+  padding-bottom: 15%;
+  padding-top:10%;
+
+}
+.contact-button{
+  margin-top: 6%;
+}
+.middle{
+  background-color: #f1f6f9;
+  color: #212a3e;
+  padding-top: 5%;
+  padding-bottom: 8%;
+  text-align: center;
+}
+.mid-image{
+  margin-top:10px;
+  margin-bottom: 10px;
+  height: 400px;
+  border-radius: 5%;
+}
+.text{
+  color: #212a3e;
+  padding-left: 25%;
+  padding-right: 25%;
+  padding-top: 10px;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.bottom{
+  background-color: #f1f6f9;
+  padding: 0% 5% 5%;
+}
+.testimonials{
+  background-color: #ffff;
+  color: #212a3e;
+  text-align: center;
+  padding-top: 6%;
+  padding-bottom: 5%;
+  margin: 0% 15%;
+  border: 5px solid #212a3e;
+  border-radius: 8px;
+}
+.testimonial-text{
+  color: #212a3e;
+}
+.carousel-item {
+  height: 300px;
+  padding: 7% 25%;
+}
+.v-bottom{
+  text-align: center;
+  background-image: url("../images/hiker.jpg");
+  background-size: cover;
+  background-color: #f1f6f9;
+  padding-bottom: 6%;
+  padding-top: 6%;
+  font-size: 2rem;
+  font-weight: bold;
+  color: #292970;
+}
+/*Contact page*/
+.map{
+  text-align: center;
+  padding-top: 8%;
+}
+.info{
+  text-align: center;
+  padding: 6% 15% 6%;
+}
+h4{
+  color: #191970;
+}
+.contact{
+  background-color: #f1f6f9;
+  padding-top: 5%;
+}
+.c-heading{
+  text-align: center;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  margin: 5% 20% 5%;
+  background-image: url("../images/breck.jpg");
+  background-size: cover;
+  border-radius: 5px;
+}
+h2{
+  color: #ffff;
+}
+.c-words{
+  background: rgba(0, 0, 0, 0.75);
+  color: #ffff;
+  margin-left: 15%;
+  margin-right: 15%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+border-radius: 5px;
+}
+.contact-box{
+  width: 35%;
+  padding: 1%;
+  padding-left: 2%;
+    display: inline-block;
+    margin:2%;
+    margin-left: 32%;
+    text-align: left;
+    background-color: #212a3e;
+    color: white;
+    border:8px solid #9ba4b5;
+    border-radius: 5px;
+    margin-bottom: 8%;
+    margin-top: 2%;
+}
+textarea{
+  width: 90%;
+}
+input{
+  width: 90%;
+  height: 30px;
+}
+
+/*Services page*/
+.s-mid{
+  background-color: #f1f6f9;
+  padding: 0% 8% 0%;
+}
+.s-words{
+  text-align: center;
+  padding: 5% 15% 5%;
+}
+.pt-w{
+  text-align: center;
+  padding: 12% 0% 5%;
+}
+.pt-img{
+  height: 400px;
+  border-radius: 10%;
+  margin-left: 8%;
+}
+.ht-w{
+  text-align: center;
+  padding: 12% 0% 5%;
+}
+.ht-img{
+  height: 400px;
+  border-radius: 10%;
+}
+.sm-w{
+  text-align: center;
+  padding: 12% 0% 5%;
+}
+.sm-img{
+  height: 400px;
+  border-radius: 10%;
+  margin-left: 8%;
+}
+.dn-w{
+  text-align: center;
+  padding: 12% 0% 5%;
+}
+.dn-img{
+  height: 400px;
+  border-radius: 10%;
+}
+.s-button{
+  text-align: center;
+  padding-bottom: 4%;
+}
+/*Our Providers*/
+.prov{
+  text-align: center;
+  padding: 5% 20% 5%;
+}
+.steven{
+  height: 300px;
+  border-radius: 25%;
+}
+.prov2{
+  text-align: center;
+  padding: 0% 20% 0%;
+}
+.jenny{
+  height: 300px;
+  border-radius: 25%;
+}
+.p-button{
+  text-align: center;
+  padding-bottom: 5%;
+}
+/*footer*/
+.footer{
+  background-color: #212a3e;
+  text-align: center;
+  padding-bottom: 3%;
+  paadding-top: 3%;
+  color: #fff;
+}
+.footer-pic{
+  text-align: center;
+}
+.foot-image{
+  width: 100px;
+}
+/*test spot*/
