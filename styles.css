@@ -67,7 +67,7 @@
 }
 .v-bottom{
   text-align: center;
-  background-image: url("../images/hiker.jpg");
+  background-image: url("./hiker.jpg");
   background-size: cover;
   background-color: #f1f6f9;
   padding-bottom: 6%;
